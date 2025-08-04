@@ -6,8 +6,8 @@ if(num == 0){
 } else if(num > 0){
     alert("El número ingresado es positivo");
 } else if(num < 0){
-    alert("El número es negativo")
+    alert("El número es negativo");
 } else {
-    alert("Ingreso un valor no númerico")
+    alert("Ingreso un valor no númerico");
 }
 
