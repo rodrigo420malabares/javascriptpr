@@ -16,7 +16,9 @@ class Producto{
     }
 
     datos(){
-        
+        console.log()
+        console.log()
+        console.log()
     }
 
 }
